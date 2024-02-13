@@ -4,3 +4,6 @@
 
 print('hola')
 print("Archivo prueba")
+
+def funcion():
+    print('this is function')
